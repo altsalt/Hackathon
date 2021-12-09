@@ -67,3 +67,20 @@ We are a team of five Master's Computing Science students at the [University of 
 During this hackathon, we will be taking a closer look at the maintainability and evolution-readiness of the GrimoireLab toolkit. 
 To do this, we will be using the toolkit itself for analysis - e.g. Perceval for repository metrics, Graal for code metrics, and Kibiter for visualization. 
 We will use this information in combination with issues experienced by other participants, GrimoireLab developers, and our hands-on findings to determine what components are the least future-proof and refactor those where needed. 
+
+## Team Magna Carta Libertatum
+
+Repository: https://github.com/Magna-Carta-Libertatum
+
+Participants:
+
+* Kaylea Champion <@kayleachampion>
+* Wm Salt Hale <@altsalt>
+
+**Description of the intended research:**
+
+We propose to extend GrimoireLab as needed in order to support an analysis of software licensing. We seek to extract and organize license data collected from repositories, enrich it with category schemes developed by NGOs concerned with software licensing, and analyze the data longitudinally using both category-driven and text processing techniques.
+
+Potential research questions:
+- How is license usage changing over time?
+- Can we detect dark patterns such as license ratcheting through automated means?
